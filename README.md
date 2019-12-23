@@ -1,4 +1,4 @@
-# Coursera ML Study
+# ML Study
 
 > This repository Solves Example Codes provided in Coursera
 > and Each Examples, I implemented some Modules for Practice
