@@ -114,6 +114,7 @@ function [p, accuracy] = predict()
     y = data(:, 3);
     m = size(X, 1);
     p = zeros(m, 1);
+    X = [ones(m, 1), X];
 
     % predict
     p = round(sigmoid(X * cost));
@@ -124,4 +125,4 @@ function [p, accuracy] = predict()
 end
 
 %% Test Function 
-plotDecisionBoundary();
+[p, accuracy] = predict();
