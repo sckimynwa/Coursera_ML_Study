@@ -106,5 +106,22 @@ function plotDecisionBoundary()
     hold off
 end
 
+function [p, accuracy] = predict()
+    % initialize
+    [cost, grad] = optimWithFminunc();
+    data = load('ex2data1.txt');
+    X = data(:, [1,2]);
+    y = data(:, 3);
+    m = size(X, 1);
+    p = zeros(m, 1);
+
+    % predict
+    p = round(sigmoid(X * cost));
+
+    % calculate accuracy
+    accuracy = mean(double(p==y)) * 100;
+
+end
+
 %% Test Function 
 plotDecisionBoundary();
