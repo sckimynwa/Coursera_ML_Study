@@ -32,5 +32,8 @@ X = [ones(m, 1) X];
 
 % =========================================================================
 
+result = all_theta * X'; %(10 * 5000)
+[probability indices] = max(sigmoid(result));
+p = indices';
 
 end
