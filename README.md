@@ -18,3 +18,15 @@
 - week3
 
 ### Basic features provided
+
+> 1. Plotting Data (2D)
+> 2. sigmoid Function implementation
+> 3. Logistic Regresssion using sigmoid & gradient descent
+> 4. optimize with fminunc (octave & matlab function)
+> 5. Plot Decision Boundary & predict model result
+
+## Module 3
+- week4
+
+### Basic features provided
+
