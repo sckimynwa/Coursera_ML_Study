@@ -30,3 +30,9 @@
 
 ### Basic features provided
 
+> 1. displayData (numbers)
+> 2. One vs All (data modeling)
+> 3. One vs All (numbers predictions)
+> 4. Simple Neural network implementation
+
+
