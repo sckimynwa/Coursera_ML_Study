@@ -54,3 +54,7 @@
 - How to get Hidden Layer's Error? (How does it defined?)
 > https://sungjk.github.io/2017/04/13/Ch3-multi-layer-nn.html
 
+- Ideas and Calculus in Backpropagations
+> https://www.youtube.com/watch?v=tIeHLnjs5U8
+> https://www.youtube.com/watch?v=Ilg3gGewQ5U
+
