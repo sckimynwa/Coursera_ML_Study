@@ -57,4 +57,5 @@
 - Ideas and Calculus in Backpropagations
 > https://www.youtube.com/watch?v=tIeHLnjs5U8
 > https://www.youtube.com/watch?v=Ilg3gGewQ5U
+> http://jaejunyoo.blogspot.com/2017/01/backpropagation.html
 
