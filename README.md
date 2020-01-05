@@ -36,3 +36,13 @@
 > 4. Simple Neural network implementation
 
 
+## Module 4
+- week 5
+
+### Basic Features provided
+
+### Questions & References
+
+- How to get Hidden Layer's Error? (How does it defined?)
+> https://sungjk.github.io/2017/04/13/Ch3-multi-layer-nn.html
+
