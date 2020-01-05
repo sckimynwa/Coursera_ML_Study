@@ -59,3 +59,13 @@
 > https://www.youtube.com/watch?v=Ilg3gGewQ5U
 > http://jaejunyoo.blogspot.com/2017/01/backpropagation.html
 
+
+## Module 5
+- week 6
+- About Regularized Linear Regression and Bias vs Variance
+
+### Basic Features provided
+
+> 1. learning Curve
+> 2. Maps Polynomial Feature
+> 3. Cross Validation Curve
