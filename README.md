@@ -38,8 +38,16 @@
 
 ## Module 4
 - week 5
+- About Neural Networks and Backpropagation Algorithm mainly.
+- Using above Algorithm, implement hand-written digit recognition.
 
 ### Basic Features provided
+
+> 1. displayData (numbers again)
+> 2. forward propagation
+> 3. sigmoid gradient
+> 4. randdomize parameters (theta)
+> 5. backword propagation
 
 ### Questions & References
 
