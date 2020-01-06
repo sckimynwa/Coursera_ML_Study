@@ -69,3 +69,21 @@
 > 1. learning Curve
 > 2. Maps Polynomial Feature
 > 3. Cross Validation Curve
+
+
+## Module 6
+- week 7
+- About SVM
+
+### Basic Features provided
+
+> 1. SVM with various C(1/lambda) values
+> 2. SVM with gaussian kernel
+> 3. Spam classifier
+
+
+### Questions & References
+
+- What is Support Vector Machine?
+> http://jaejunyoo.blogspot.com/2018/01/support-vector-machine-1.html
+> https://excelsior-cjh.tistory.com/165
