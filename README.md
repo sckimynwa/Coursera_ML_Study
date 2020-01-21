@@ -87,3 +87,25 @@
 - What is Support Vector Machine?
 > http://jaejunyoo.blogspot.com/2018/01/support-vector-machine-1.html
 > https://excelsior-cjh.tistory.com/165
+
+
+## Module 7
+- week 8
+- About K-means Clustering (Unsupervised learning)
+- About PCA (Principal Component Analysis)
+
+### Basic Features provided
+
+> 1. 
+> 2. PCA
+
+### Questions & References
+
+- What is PCA?
+> https://ratsgo.github.io/machine%20learning/2017/04/24/PCA/
+
+- How Covaciance Matrix's Eigenvector solves PCA
+> https://darkpgmr.tistory.com/110
+
+- PCA with C++
+> https://adnoctum.tistory.com/977
