@@ -95,9 +95,8 @@
 - About PCA (Principal Component Analysis)
 
 ### Basic Features provided
-
-> 1. 
-> 2. PCA
+ 
+> 1. PCA
 
 ### Questions & References
 
